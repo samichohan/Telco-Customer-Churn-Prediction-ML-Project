@@ -2,6 +2,8 @@
 
 A machine learning project that predicts whether a telecom customer is likely to cancel service (churn), so the company can contact at-risk customers with retention offers **before** they leave. Includes a Streamlit app that returns a churn probability for a new customer.
 
+**Live demo:** https://telco-customer-churn-prediction-ml-project-app.streamlit.app/
+
 ## Business Problem
 
 Every time a customer leaves, the company loses monthly revenue and the customer's future lifetime value. Acquiring a new customer costs more than retaining an existing one. This project builds a binary classifier (Churn = Yes/No) and an estimated churn probability to help the retention team prioritise outreach.
